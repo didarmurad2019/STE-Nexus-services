@@ -12,8 +12,7 @@
 | **AlphaFold 2**        | Custom Transformer    | PDB + MSA          | Structure prediction                      |
 | **ESMFold**            | Efficient Transformer | UniRef50           | Fast structure prediction                 |
 
-
-
+<br>
 🧬 bio-embeddings Versions & Python Compatibility
 <br>
 The bio-embeddings package has seen several releases. Based on available data, here's a summary:
