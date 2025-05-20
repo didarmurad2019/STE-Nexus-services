@@ -1,5 +1,9 @@
 # STE-Nexus-services
 <br>
+🧬 bio-embeddings Versions & Python Compatibility
+<br>
+The bio-embeddings package has seen several releases. Based on available data, here's a summary:
+<br>
 
 | Version | Release Date | Compatible Python Versions |                                         |
 | ------- | ------------ | -------------------------- | --------------------------------------- |
