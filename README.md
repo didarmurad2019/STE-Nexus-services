@@ -22,4 +22,7 @@ The bio-embeddings package has seen several releases. Based on available data, h
 [1]: https://pypi.org/project/bio-embeddings/?utm_source=chatgpt.com "bio-embeddings · PyPI"
 [2]: https://pydigger.com/pypi/gensim?utm_source=chatgpt.com "gensim"
 [3]: https://github.com/piskvorky/gensim/wiki/Gensim-And-Compatibility/68b6e2be69c2f366b868e2aa3b211aaf19828b3d?utm_source=chatgpt.com "Gensim And Compatibility · piskvorky/gensim Wiki · GitHub"
+<br>
 
+📚 Gensim Versions & Python Compatibility
+Gensim has evolved over time, with changes in Python version suppor
