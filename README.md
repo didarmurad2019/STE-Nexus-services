@@ -1,5 +1,6 @@
 # STE-Nexus-services
 <br>
+
 | Version | Release Date | Compatible Python Versions |                                         |
 | ------- | ------------ | -------------------------- | --------------------------------------- |
 | 0.1.0   | May 1, 2020  | 3.7.1 – 3.9                |                                         |
